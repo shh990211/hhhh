@@ -2,6 +2,7 @@ variable "ec2_tags" {
   default     = {}
 }
 
+
 variable "vpc_id" {
   default     = {}
 }
