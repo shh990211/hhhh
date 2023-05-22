@@ -3,8 +3,6 @@ variable "ec2_tags" {
 }
 
 
-
-
 variable "vpc_id" {
   default     = {}
 }
